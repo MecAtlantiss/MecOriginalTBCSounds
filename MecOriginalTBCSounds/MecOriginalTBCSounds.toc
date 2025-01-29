@@ -1,0 +1,7 @@
+## Interface: 20502
+## Title: MecOriginalTBCSounds
+## Notes: Replaces some of the new TBC classic sounds with the original TBC sounds.
+## Author: Mec
+
+localization.en.lua
+MecOriginalTBCSounds.lua
